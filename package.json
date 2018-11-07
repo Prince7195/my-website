@@ -1,0 +1,16 @@
+{
+  "name": "web-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Vijay Deepak",
+  "license": "ISC",
+  "homepage": "https://Prince7195.github.io/my-website",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
